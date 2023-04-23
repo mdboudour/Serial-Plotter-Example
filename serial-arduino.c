@@ -1,3 +1,6 @@
+//To make it work, install TimerOne library (in library manager)
+//https://github.com/PaulStoffregen/TimerOne
+
 ///* ARDUINO CODE EXAMPLE, COPY AND PASTE IT IN NEW PROJECT */
 #include <TimerOne.h>
 
